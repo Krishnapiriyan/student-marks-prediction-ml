@@ -159,5 +159,5 @@ Attendance: 85
 ```
 **Output:**
 ```text
-Predicted Student Marks: 78.45
+Predicted Student Marks: 67.87
 ```
